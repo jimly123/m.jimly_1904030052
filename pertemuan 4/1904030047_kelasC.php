@@ -54,21 +54,21 @@
                 );
     var_dump($Sukisno);
     echo"<br>";
-    $SOPYAN = [  "id" => "Ahmad ",
-                "nama" => "Ahmad Sopyan",
-                "umur" => 22,
+    $JIMLY = [  "id" => "Jimly ",
+                "nama" => "Muhammad Jimly Arrohimi",
+                "umur" => 21,
                 "alamat" => [
 					"kota" => "Tangerang", "Prov" => "Banten"
 			    ]
              ];
 
-    var_dump($SOPYAN);
+    var_dump($JIMLY);
     echo"<br>";
-    echo("Nama id : ". $SOPYAN["id"]);
+    echo("Nama id : ". $JIMLY["id"]);
     echo"<br>";
-    echo("Nama lengkap : ".$SOPYAN["nama"]);
+    echo("Nama lengkap : ".$JIMLY["nama"]);
     echo"<br>";
-    echo("Umur : ".$SOPYAN["umur"]);  
+    echo("Umur : ".$JIMLY["umur"]);  
     ?>
 
     <hr>
