@@ -1,7 +1,7 @@
 <h4>Membuat dan menampilkan array</h4>
     <?php 
     //membuat array mahasiswa
-    $nim = ["ahmad sopyan","anton","suhendrik","jimly","panji","hadi"];
+    $nim = ["muhammd jimly","anton","suhendrik","sopyan","panji","hadi"];
     ?>
 
     <!-- menampilkan isi aray pengulangan for -->
@@ -49,8 +49,8 @@
     <?php
     //Membuat Array
     $mhs = [
-            "nim"   => "1904030047", 
-            "nama"  => "Ahmad Sopyan",
+            "nim"   => "1904030052", 
+            "nama"  => "M.Jimly",
             "fakultas" => "Fakultas Teknik",
             "jurusan"  => "Teknik Informatika",
     ];
